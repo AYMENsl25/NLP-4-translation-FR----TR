@@ -1,4 +1,5 @@
-
+just for e=any problem in the notebooks here is the drive link you can find everything 
+https://drive.google.com/drive/folders/1cJ1GHC2cSJM8zHpYmDNAfrkVdIIcHbVM?usp=sharing
 # 📘 COE025 – Natural Language Processing  
 ## Project 4: French → Turkish Machine Translation
 
